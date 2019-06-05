@@ -1,0 +1,6 @@
+owner=518645153678753813
+prefix=1
+game=BL | 1play
+stayinchannel=true
+songinstatus=false
+token=NTg1OTMxNzgzODg4MTc1MTQ0.XPgphA.4qtSZvTl4jyp3kTtTK3qQxet0c0
